@@ -10,7 +10,7 @@ from multiprocessing import Queue
 from pocketsphinx import pocketsphinx
 from sys import platform
 
-__author__ = "NJC"
+__author__ = "Michael Mooney"
 __license__ = "MIT"
 
 vad = webrtcvad.Vad(2)
