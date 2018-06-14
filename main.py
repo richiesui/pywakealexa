@@ -5,7 +5,7 @@ import sys
 import signal
 import time
 
-__author__ = "NJC"
+__author__ = "Michael Mooney"
 __license__ = "MIT"
 __version__ = "0.2"
 
